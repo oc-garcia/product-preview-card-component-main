@@ -81,7 +81,7 @@ body {
   color: var(--White);
   font-weight: 700;
   border-radius: 5px;
-  background-image: url(/images/icon-cart.svg);
+  background-image: url(images/icon-cart.svg);
   background-repeat: no-repeat;
   background-position: bottom 50% right 80%;
 }
@@ -89,7 +89,7 @@ body {
 .product__cart:hover {
   cursor: pointer;
   background: var(--Dark_cyan_hover);
-  background-image: url(/images/icon-cart.svg);
+  background-image: url(images/icon-cart.svg);
   background-repeat: no-repeat;
   background-position: bottom 50% right 80%;
 }
