@@ -29,6 +29,7 @@ body {
 .product__img-mobile {
   width: 100%;
   border-radius: 5% 5% 0% 0%;
+  object-fit: cover;
 }
 
 .descripton__container {
